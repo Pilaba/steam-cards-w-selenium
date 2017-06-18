@@ -32,7 +32,7 @@ correo = "###"
 password = "###"
 print("buscando correo en: %s"%(correo))
 
-from Project import stemCode
+from steam-cards-w-selenium-master import stemCode
 
 while True:
     time.sleep(2)
