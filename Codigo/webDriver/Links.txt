@@ -1,0 +1,13 @@
+If you want to use another web browser just download the driver, see the links below
+
+Opera 
+https://github.com/operasoftware/operachromiumdriver/releases
+
+Chrome
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Edge
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+Firefox
+https://github.com/mozilla/geckodriver/releases 
