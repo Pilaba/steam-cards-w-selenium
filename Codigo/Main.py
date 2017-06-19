@@ -33,6 +33,11 @@ correo = "###"
 password = "###"
 print("buscando correo en: %s"%(correo))
 
+<<<<<<< HEAD:Codigo/Main.py
+=======
+from steam-cards-w-selenium-master import stemCode
+
+>>>>>>> 164ca848746e0530c89045fadb3ab1e8bbf9532a:Main.py
 while True:
     time.sleep(2)
     Obj = stemCode.SteamCode(correo,password)
